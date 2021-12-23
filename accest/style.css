@@ -161,9 +161,6 @@ button:hover {
     .card__social {
         text-align: center;
     }
-    button {
-        margin-left: 128px;
-    }
 }
 
 @media (max-width :739px) {
